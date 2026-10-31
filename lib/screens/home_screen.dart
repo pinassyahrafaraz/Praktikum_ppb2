@@ -267,7 +267,7 @@ class _HomeScreenState extends State<HomeScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Pink Boutique',
+                  'Store App',
                   style: TextStyle(
                     color: textColor,
                     fontSize: 17,
